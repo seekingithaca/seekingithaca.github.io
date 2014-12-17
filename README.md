@@ -1,4 +1,4 @@
-seekingithaca.github.io
-=======================
+Seeking Ithaca
+==============
 
 Seeking Ithaca's web page.
